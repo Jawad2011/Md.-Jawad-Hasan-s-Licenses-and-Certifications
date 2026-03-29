@@ -34,7 +34,4 @@
 [Undergoing reconstruction}
 
 
-Credential URL: https://www.life-global.org/certificate/9ba2f98a-362a-454a-b2db-57ee616efd38
-
-
 
